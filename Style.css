@@ -3,7 +3,7 @@ padding: 0px;
 margin: 0px;
 }
 .image{
-    background-image: url('/image/harley-davidson-eeTJKC_wz34-unsplash.jpg');
+    background-image: url('./image/harley-davidson-eeTJKC_wz34-unsplash.jpg');
     background-size: 100% 100%;
     max-width: 100%;
     height: 100vh;
